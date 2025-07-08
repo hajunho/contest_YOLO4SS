@@ -5,3 +5,7 @@
 https://drive.google.com/file/d/1sNWl2KNQM7zdf55uHZ9g-tz6svh-280Q/view?usp=sharing
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+YOLO 학습 명령어
+yolo detect train   model=best.pt   data=/home/YOLO/data.yaml   epochs=100   imgsz=640   device=0
+
