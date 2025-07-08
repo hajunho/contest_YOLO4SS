@@ -1,0 +1,15 @@
+path: /home/work/.exdata98/test/YOLO/dataset
+train: images/train
+val: images/val
+names:
+  0: tire
+  1: wood
+  2: rope
+  3: spring fish trap
+  4: bundle of ropes
+  5: circular fish trap
+  6: eel fish trap
+  7: fish net
+  8: rectangular fish trap
+  9: other objects
+
