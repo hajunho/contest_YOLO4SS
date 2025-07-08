@@ -5,6 +5,7 @@
 ## 📥 Model Download
 [**Download best.pt**](https://drive.google.com/file/d/1sNWl2KNQM7zdf55uHZ9g-tz6svh-280Q/view?usp=sharing)
 
+[**Dataset Location**](https://www.aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=&topMenu=&srchOptnCnd=OPTNCND001&searchKeyword=%ED%95%B4%EC%96%91+%EC%93%B0%EB%A0%88%EA%B8%B0&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&aihubDataSe=data&dataSetSn=236)
 ## 🧱 데이터 구성
 - **이미지**: `./images/` 폴더에 .jpg 파일 (예: tire_045_00123.jpg)
 - **라벨 (VOC 형식)**: `./annotations/` 폴더에 .xml 파일
